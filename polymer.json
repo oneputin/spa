@@ -1,11 +1,13 @@
 {
   "entrypoint": "index.html",
-  "shell": "src/my-app.html",
+  "shell": "src/spa-main.html",
   "fragments": [
-    "src/my-view1.html",
-    "src/my-view2.html",
-    "src/my-view3.html",
-    "src/my-view404.html"
+    "src/spa-gia.html",
+    "src/spa-1999.html",
+    "src/spa-2007.html",
+    "src/spa-2013.html",
+    "src/spa-2016.html",
+    "src/spa-http404.html"
   ],
   "sourceGlobs": [
    "src/**/*",

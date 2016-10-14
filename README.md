@@ -1,5 +1,5 @@
-# Tested It
-
+# Adaptation Tested 
+after renaming template-names to app-names **app-routing** is ok  
 
 # Polymer App Toolbox - Starter Kit
 
